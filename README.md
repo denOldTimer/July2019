@@ -25,6 +25,8 @@ https://github.com/denOldTimer/
 You can find the source code for the project un bundled @  
 https://github.com/denOldTimer/July2019-sourcecode
 
+To view a working sample browse to http://walters.wecode.ml
+
 Thank you for the challenge.  
 I really enjoyed doing it.
 
